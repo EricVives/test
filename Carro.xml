@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+  <item>
+    <id>i1</id>
+    <img>img/camiseta1.jpg</img>
+    <titulo>Camiseta 1</titulo>
+    <precio>20</precio>
+    <stock>Stock 10</stock>
+  </item>
+  <item>
+    <id>i2</id>
+    <img>img/camiseta2.jpg</img>
+    <titulo>Camiseta 2</titulo>
+    <precio>24</precio>
+    <stock>Stock 10</stock>
+  </item>
+  <item>
+    <id>i3</id>
+    <img>img/camiseta3.jpg</img>
+    <titulo>Camiseta 3</titulo>
+    <precio>30</precio>
+    <stock>Stock 10</stock>
+  </item>
+  <item>
+    <id>i4</id>
+    <img>img/camiseta4.jpg</img>
+    <titulo>Camiseta 4</titulo>
+    <precio>30</precio>
+    <stock>Stock 10</stock>
+  </item>
+  <item>
+    <id>i5</id>
+    <img>img/camiseta5.jpg</img>
+    <titulo>Camiseta 5</titulo>
+    <precio>32</precio>
+    <stock>Stock 10</stock>
+  </item>
+  <item>
+    <id>i6</id>
+    <img>img/reloj1.jpg</img>
+    <titulo>Reloj 1</titulo>
+    <precio>18</precio>
+    <stock>Stock 12</stock>
+  </item>
+  <item>
+    <id>i7</id>
+    <img>img/reloj2.jpg</img>
+    <titulo>Reloj 2</titulo>
+    <precio>28</precio>
+    <stock>Stock 20</stock>
+  </item>
+  <item>
+    <id>i8</id>
+    <img>img/reloj3.jpg</img>
+    <titulo>Reloj 3</titulo>
+    <precio>33</precio>
+    <stock>Stock 12</stock>
+  </item>
+  <item>
+    <id>i9</id>
+    <img>img/reloj4.jpg</img>
+    <titulo>Reloj 4</titulo>
+    <precio>24</precio>
+    <stock>Stock 22</stock>
+  </item>
+  <item>
+    <id>i10</id>
+    <img>img/reloj5.jpg</img>
+    <titulo>Reloj 5</titulo>
+    <precio>18 </precio>
+    <stock>Stock 12</stock>
+  </item>
+
+</items>
